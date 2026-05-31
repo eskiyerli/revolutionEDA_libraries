@@ -4,7 +4,7 @@
       "name": "analogLib",
       "description": "Basic Analogue Elements Library",
       "type": "design",
-      "version": "0.2",
+      "version": "0.3",
       "license": "Apache-2.0",
       "url": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_libraries/main/analogLib.zip"
     }
